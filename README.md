@@ -17,6 +17,7 @@ Now you are ready to deploy to Heroku:
 heroku login
 
 # Create the project
+heroku create your-api-project-name
 
 
 # Deploy to Heroku
