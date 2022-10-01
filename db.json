@@ -1,24 +1,10 @@
 {"hotel":
   [
-  { "id":1,
-    "category": "family",
-    "image_url": "",
-    "type_of_room": "ac",
-    "bed_type": "single",
-		"no_of_persons":"1",
-		"capacity":"3",
-		"cost":"2500",
-		"booked":false
-  },
-    { "id":2,
-  "category": "delux",
-  "image_url": "",
-  "type_of_room": "ac",
-  "bed_type": "single",
-  "no_of_persons":"1",
-  "capacity":"3",
-  "cost":"3500",
-  "booked":false
-}
-]
+  { "id":1
+  }
+],
+"register":[
+  
+],
+""
 }
