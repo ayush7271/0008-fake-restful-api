@@ -1,4 +1,4 @@
-{"hotel":
+{"student":
   [
   { "id":1
   }
@@ -6,5 +6,7 @@
 "register":[
   
 ],
-""
+"teacher":[
+
+]
 }
