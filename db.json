@@ -1,14 +1,15 @@
-{"student":
+{"user":
   [
   { "id":1,
     "name":"prasant",
     "age":25
   }
 ],
-"register":[
+"Login":[
   
 ],
-"result":[
-
+"visiter_count":[
+  
 ]
+
 }
