@@ -2,7 +2,11 @@
   [
   { "id":1,
     "name":"prasant",
-    "age":25
+    "age":25,
+    "image":"https://images.unsplash.com/photo-1581090700227-1e37b190418e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+    "email":"xyz@gmail.com",
+    "password":"123"
+
   }
 ],
 "Login":[
